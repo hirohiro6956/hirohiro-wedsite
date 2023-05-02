@@ -1,6 +1,6 @@
 ---
-title: "ここにページのタイトル"
-author: default
+title: "欧州サッカー"
+author: hirohiro
 permalink: /
 ---
 
@@ -13,7 +13,7 @@ permalink: /
 
 以下テンプレート
 
-# 見出し1
+# チャンピオンズリーグ
 ## 見出し2
 ### 見出し3
 #### 見出し4
@@ -23,7 +23,7 @@ permalink: /
 改行は、行末に半角スペースを2個いれる
 次の行
 
-[リンク](https://www.google.co.jp/)
+[リンク](https://www.goal.com/jp/%E3%83%AA%E3%82%B9%E3%83%88/uefa-champions-league-schedule/rlq97blj7n6m1e5owxruh0ub2 )
 
 **太字**
 
@@ -44,6 +44,6 @@ permalink: /
 | 列1  | 列2  |
 |-----|-----|
 | 内容  | 内容  |
-| 内容  | 内容  |
+| 内容  |  内容 |
 
-![image](/GHPages_WebSite/assets/images/logo-150.png)
+![image](　)
